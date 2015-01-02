@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX coordination sheet at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_coordination_issues.xlsx 
-# Timestamp:  2014-11-07 13:51:48
+# Timestamp:  2015-01-02 09:37:45
 # -------------------------------------------------------------- 
 #  name                   institute      status         ToU            
 #--------------------------------------------------------------- 
@@ -10,6 +10,7 @@ AUTH-LHTEE-WRF321B       AUTH-LHTEE     confirmed      unknown
 AUTH-Met-WRF331A         AUTH-Met       confirmed      unknown        
 AWI-HIRHAM5              AWI            confirmed      unknown        
 BCCR-WRF331C             BCCR           confirmed      unrestricted   
+CCCma-CanRCM4            CCCma          confirmed      unrestricted   
 CHMI-ALADIN52            CHMI           confirmed      unknown        
 CLMcom-CCLM4-8-17        CLMcom         confirmed      non-commercial only
 CNRM-ALADIN52            CNRM           confirmed      unrestricted   
@@ -20,11 +21,13 @@ CSIRO-CCAM               CSIRO          confirmed      unknown
 CUNI-RegCM4-2            CUNI           confirmed      unknown        
 DHMZ-RegCM4-2            DHMZ           confirmed      non-commercial only
 DMI-HIRHAM5              DMI            confirmed      unrestricted   
+GISS-RM3                 GISS           not confirmed  unknown        
 HMS-ALADIN52             HMS            confirmed      non-commercial only
 ICTP-RegCM4-3            ICTP           confirmed      unrestricted   
 IDL-WRF331D              IDL            confirmed      unknown        
 IITM-RegCM4-1            IITM           confirmed      non-commercial only
 IPSL-INERIS-WRF331F      IPSL-INERIS    confirmed      unknown        
+KAUST-GFDL               KAUST          confirmed      unknown        
 KNMI-RACMO21P            KNMI           confirmed      unrestricted   
 KNMI-RACMO22E            KNMI           confirmed      unrestricted   
 KNMI-RACMO22T            KNMI           confirmed      unrestricted   
@@ -40,5 +43,6 @@ SMHI-RCAO-SN             SMHI           confirmed      unrestricted
 UCAN-WRF331G             UCAN           confirmed      non-commercial only
 UCAN-WRF350I             UCAN           confirmed      unknown        
 UCLM-PROMES              UCLM           confirmed      unknown        
-UHOH-WRF331H             UHOH           confirmed      unknown        
+UHOH-WRF361H             UHOH           confirmed      non-commercial only
 UM-WRF331                UM             confirmed      unknown        
+UQAM-CRCM5               UQAM           confirmed      unrestricted   
