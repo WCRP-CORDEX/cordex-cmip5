@@ -2,14 +2,14 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX coordination sheet at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_coordination_issues.xlsx 
-# Timestamp:  2015-01-02 09:37:45
+# Timestamp:  2015-03-23 16:41:28
 # -------------------------------------------------------------- 
 #  name                   institute      status         ToU            
 #--------------------------------------------------------------- 
 AUTH-LHTEE-WRF321B       AUTH-LHTEE     confirmed      unknown        
 AUTH-Met-WRF331A         AUTH-Met       confirmed      unknown        
 AWI-HIRHAM5              AWI            confirmed      unknown        
-BCCR-WRF331C             BCCR           confirmed      unrestricted   
+BCCR-WRF361              BCCR           confirmed      unrestricted   
 CCCma-CanRCM4            CCCma          confirmed      unrestricted   
 CHMI-ALADIN52            CHMI           confirmed      unknown        
 CLMcom-CCLM4-8-17        CLMcom         confirmed      non-commercial only
@@ -21,6 +21,7 @@ CSIRO-CCAM               CSIRO          confirmed      unknown
 CUNI-RegCM4-2            CUNI           confirmed      unknown        
 DHMZ-RegCM4-2            DHMZ           confirmed      non-commercial only
 DMI-HIRHAM5              DMI            confirmed      unrestricted   
+ENEA-RegCM4-3            ENEA           not filled     non-commercial only
 GISS-RM3                 GISS           not confirmed  unknown        
 HMS-ALADIN52             HMS            confirmed      non-commercial only
 ICTP-RegCM4-3            ICTP           confirmed      unrestricted   
