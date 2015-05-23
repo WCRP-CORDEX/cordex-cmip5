@@ -2,7 +2,7 @@
 # Do not change this file - it is auto-generated based on the contents 
 # of the CORDEX RCM registration sheet  
 # To register CORDEX simulations please contact cordex-registration /at/ smhi.se 
-# Timestamp:  2015-04-09 12:40:01
+# Timestamp:  2015-05-23 19:05:03
 # -------------------------------------------------------------- 
 # model id           institute id             ToU  
 # --------------------------------------------------------------- 
@@ -34,7 +34,7 @@ KAUST-GFDL               KAUST          unknown
 KNMI-RACMO21P            KNMI           unrestricted   
 KNMI-RACMO22E            KNMI           unrestricted   
 KNMI-RACMO22T            KNMI           unrestricted   
-MGO-RRCM                 MGO            unknown        
+MGO-RRCM                 MGO            unrestricted   
 MIUB-WRF331A             MIUB           unknown        
 MOHC-HadGEM3-RA          MOHC           unrestricted   
 MOHC-HadRM3P             MOHC           unrestricted   
@@ -50,7 +50,7 @@ UCAN-WRF350I             UCAN           unknown
 UCLM-PROMES              UCLM           unknown        
 UHOH-WRF361H             UHOH           non-commercial 
 UM-WRF331                UM             unknown        
-UNSW -WRF360J            UNSW           unrestricted   
-UNSW -WRF360K            UNSW           unrestricted   
-UNSW -WRF360L            UNSW           unrestricted   
+UNSW-WRF360J             UNSW           unrestricted   
+UNSW-WRF360K             UNSW           unrestricted   
+UNSW-WRF360L             UNSW           unrestricted   
 UQAM-CRCM5               UQAM           unrestricted   

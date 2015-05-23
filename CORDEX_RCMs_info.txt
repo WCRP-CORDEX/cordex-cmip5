@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2015-04-09 12:40:01
+# Timestamp:  2015-05-23 19:05:03
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -34,7 +34,7 @@ KAUST-GFDL               KAUST          unknown             King Abdullah Univer
 KNMI-RACMO21P            KNMI           unrestricted        Royal Netherlands Meteorological Institute, De Bilt, The Netherlands
 KNMI-RACMO22E            KNMI           unrestricted        Royal Netherlands Meteorological Institute, De Bilt, The Netherlands
 KNMI-RACMO22T            KNMI           unrestricted        Royal Netherlands Meteorological Institute, De Bilt, The Netherlands
-MGO-RRCM                 MGO            unknown             Main Geophysical Observatory, St. Petersburg
+MGO-RRCM                 MGO            unrestricted        Main Geophysical Observatory, St. Petersburg
 MIUB-WRF331A             MIUB           unknown             unknown        
 MOHC-HadGEM3-RA          MOHC           unrestricted        Met Office Hadley Centre
 MOHC-HadRM3P             MOHC           unrestricted        Met Office Hadley Centre
@@ -50,7 +50,7 @@ UCAN-WRF350I             UCAN           unknown             unknown
 UCLM-PROMES              UCLM           unknown             University of Castilla-La Mancha, Toledo, Spain
 UHOH-WRF361H             UHOH           non-commercial      University of Hohenheim 
 UM-WRF331                UM             unknown             unknown        
-UNSW -WRF360J            UNSW           unrestricted        University of New South Wales
-UNSW -WRF360K            UNSW           unrestricted        University of New South Wales
-UNSW -WRF360L            UNSW           unrestricted        University of New South Wales
+UNSW-WRF360J             UNSW           unrestricted        University of New South Wales
+UNSW-WRF360K             UNSW           unrestricted        University of New South Wales
+UNSW-WRF360L             UNSW           unrestricted        University of New South Wales
 UQAM-CRCM5               UQAM           unrestricted        Universite du Quebec a Montreal
