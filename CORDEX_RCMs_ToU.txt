@@ -2,7 +2,7 @@
 # Do not change this file - it is auto-generated based on the contents 
 # of the CORDEX RCM registration sheet  
 # To register CORDEX simulations please contact cordex-registration /at/ smhi.se 
-# Timestamp:  2015-05-23 19:05:03
+# Timestamp:  2015-06-04 15:55:35
 # -------------------------------------------------------------- 
 # model id           institute id             ToU  
 # --------------------------------------------------------------- 
