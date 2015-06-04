@@ -2,54 +2,56 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2015-06-04 15:55:35
+# Timestamp:  2015-06-04 16:32:53
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
-AUTH-LHTEE-WRF321B       AUTH-LHTEE     unknown             unknown        
-AUTH-Met-WRF331A         AUTH-Met       unknown             unknown        
+AUTH-LHTEE-WRF321B       AUTH-LHTEE     unknown             Aristotle University of Thessaloniki, Laboratory of Heat Transfer and Environmental Engeneering
+AUTH-Met-WRF331A         AUTH-Met       unknown             Aristotle University of Thessaloniki, Department of Meteorology & Climatology 
 AWI-HIRHAM5              AWI            unrestricted        Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research
+Alaro0-RMIB-Ugent        Alaro0         non-commercial      Royal Meteorological Institute of Belgium and Ghent University
 BCCR-WRF331              BCCR           unrestricted        Uni Research and the Bjerknes Centre for Climate Research
 BCCR-WRF331C             BCCR           unrestricted        Uni Research and the Bjerknes Centre for Climate Research
 BCCR-WRF361              BCCR           unrestricted        Uni Research and the Bjerknes Centre for Climate Research
 CCCma-CanRCM4            CCCma          unrestricted        CCCma (Canadian Centre for Climate Modelling and Analysis, Victoria, BC, Canada)
-CHMI-ALADIN52            CHMI           unknown             unknown        
+CHMI-ALADIN52            CHMI           unknown             Czech Hydro-Meteorological Institute
 CLMcom-CCLM4-8-17        CLMcom         non-commercial      Climate Limited-area Modelling Community (CLM-Community)
-CNRM-ALADIN52            CNRM           unrestricted        Centre National de Recherches Meteorologiques
+CNRM-ALADIN52            CNRM           non-commercial      Centre National de Recherches Meteorologiques
 CNRM-ALADIN53            CNRM           non-commercial      Centre National de Recherches Meteorologiques
 CNRM-ARPEGE52            CNRM           unrestricted        Centre National de Recherches Meteorologiques
-CRP-GL-WRF331A           CRP-GL         unrestricted        unknown        
+CRP-GL-WRF331A           CRP-GL         unrestricted        Public Research Centre - Gabriel Lippmann, Luxembourg
 CSIRO-CCAM               CSIRO          unknown             Commonwealth Scientific and Industrial Research Organisation
-CUNI-RegCM4-2            CUNI           unknown             unknown        
+CUNI-RegCM4-2            CUNI           unknown             Charles University
 DHMZ-RegCM4-2            DHMZ           non-commercial      Meteorological and Hydrological Service of Croatia
-DMI-HIRHAM5              DMI            unrestricted        unknown        
+DMI-HIRHAM5              DMI            unrestricted        Danish Meteorological Institute
 ENEA-RegCM4-3            ENEA           non-commercial      Italian National Agency for New Technologies, Energy and Sustainable Economic Development
-GISS-RM3                 GISS           unknown             NASA Goddard Institute for Space Studies (GISS)
 HMS-ALADIN52             HMS            non-commercial      Hungarian Meteorological Service
 ICTP-RegCM4-3            ICTP           unrestricted         Abdus Salam International Centre for Theoretical Physics
-IDL-WRF331D              IDL            unknown             unknown        
+IDL-WRF350D              IDL            non-commercial      Instituto Dom Luiz, University of Lisbon
 IITM-RegCM4-1            IITM           non-commercial      Indian Institute of Tropical Meteorology
-IPSL-INERIS-WRF331F      IPSL-INERIS    unknown             unknown        
-KAUST-GFDL               KAUST          unknown             King Abdullah University, Thuwal, Saudi Arabien
+IPSL-INERIS-WRF331F      IPSL-INERIS    unknown             Institut Pierre-Simon Laplace
 KNMI-RACMO21P            KNMI           unrestricted        Royal Netherlands Meteorological Institute, De Bilt, The Netherlands
 KNMI-RACMO22E            KNMI           unrestricted        Royal Netherlands Meteorological Institute, De Bilt, The Netherlands
 KNMI-RACMO22T            KNMI           unrestricted        Royal Netherlands Meteorological Institute, De Bilt, The Netherlands
 MGO-RRCM                 MGO            unrestricted        Main Geophysical Observatory, St. Petersburg
-MIUB-WRF331A             MIUB           unknown             unknown        
+MIUB-WRF331A             MIUB           unknown             Meteorological Institute, Bonn University
 MOHC-HadGEM3-RA          MOHC           unrestricted        Met Office Hadley Centre
 MOHC-HadRM3P             MOHC           unrestricted        Met Office Hadley Centre
 MPI-CSC-REMO2009         MPI-CSC        unrestricted        Helmholtz-Zentrum Geesthacht, Climate Service Center, Max Planck Institute for Meteorology
 MU-WRF360M               MU             non-commercial      Murdoch University 
 NUIM-WRF341E             NUIM           non-commercial      National University of Ireland Maynooth
+OURANOS-CRCM5            OURANOS        unrestricted        Ouranos Consortium on climate change
 SMHI-RCA4                SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
 SMHI-RCA4-SN             SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
 SMHI-RCAO                SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
 SMHI-RCAO-SN             SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
-UCAN-WRF331G             UCAN           non-commercial      unknown        
-UCAN-WRF350I             UCAN           unknown             unknown        
+UCAN-WRF331G             UCAN           non-commercial      University of Cantabria
+UCAN-WRF350I             UCAN           unknown             University of Cantabria
 UCLM-PROMES              UCLM           unknown             University of Castilla-La Mancha, Toledo, Spain
 UHOH-WRF361H             UHOH           non-commercial      University of Hohenheim 
-UM-WRF331                UM             unknown             unknown        
+UM-WRF331                UM             unknown             Universidad de Murcia
+UNIBELGRADE-EBU1         UNIBELGRADE    non-commercial      University of Belgrade, South East European Virtual Climate Change Center and University of Novi Sad
+UNIBELGRADE-EBUPOM2c1    UNIBELGRADE    non-commercial      University of Belgrade, South East European Virtual Climate Change Center and University of Novi Sad
 UNSW-WRF360J             UNSW           unrestricted        University of New South Wales
 UNSW-WRF360K             UNSW           unrestricted        University of New South Wales
 UNSW-WRF360L             UNSW           unrestricted        University of New South Wales

@@ -2,20 +2,21 @@
 # Do not change this file - it is auto-generated based on the contents 
 # of the CORDEX RCM registration sheet  
 # To register CORDEX simulations please contact cordex-registration /at/ smhi.se 
-# Timestamp:  2015-06-04 15:55:35
+# Timestamp:  2015-06-04 16:32:53
 # -------------------------------------------------------------- 
 # model id           institute id             ToU  
 # --------------------------------------------------------------- 
 AUTH-LHTEE-WRF321B       AUTH-LHTEE     unknown        
 AUTH-Met-WRF331A         AUTH-Met       unknown        
 AWI-HIRHAM5              AWI            unrestricted   
+Alaro0-RMIB-Ugent        Alaro0         non-commercial 
 BCCR-WRF331              BCCR           unrestricted   
 BCCR-WRF331C             BCCR           unrestricted   
 BCCR-WRF361              BCCR           unrestricted   
 CCCma-CanRCM4            CCCma          unrestricted   
 CHMI-ALADIN52            CHMI           unknown        
 CLMcom-CCLM4-8-17        CLMcom         non-commercial 
-CNRM-ALADIN52            CNRM           unrestricted   
+CNRM-ALADIN52            CNRM           non-commercial 
 CNRM-ALADIN53            CNRM           non-commercial 
 CNRM-ARPEGE52            CNRM           unrestricted   
 CRP-GL-WRF331A           CRP-GL         unrestricted   
@@ -24,13 +25,11 @@ CUNI-RegCM4-2            CUNI           unknown
 DHMZ-RegCM4-2            DHMZ           non-commercial 
 DMI-HIRHAM5              DMI            unrestricted   
 ENEA-RegCM4-3            ENEA           non-commercial 
-GISS-RM3                 GISS           unknown        
 HMS-ALADIN52             HMS            non-commercial 
 ICTP-RegCM4-3            ICTP           unrestricted   
-IDL-WRF331D              IDL            unknown        
+IDL-WRF350D              IDL            non-commercial 
 IITM-RegCM4-1            IITM           non-commercial 
 IPSL-INERIS-WRF331F      IPSL-INERIS    unknown        
-KAUST-GFDL               KAUST          unknown        
 KNMI-RACMO21P            KNMI           unrestricted   
 KNMI-RACMO22E            KNMI           unrestricted   
 KNMI-RACMO22T            KNMI           unrestricted   
@@ -41,6 +40,7 @@ MOHC-HadRM3P             MOHC           unrestricted
 MPI-CSC-REMO2009         MPI-CSC        unrestricted   
 MU-WRF360M               MU             non-commercial 
 NUIM-WRF341E             NUIM           non-commercial 
+OURANOS-CRCM5            OURANOS        unrestricted   
 SMHI-RCA4                SMHI           unrestricted   
 SMHI-RCA4-SN             SMHI           unrestricted   
 SMHI-RCAO                SMHI           unrestricted   
@@ -50,6 +50,8 @@ UCAN-WRF350I             UCAN           unknown
 UCLM-PROMES              UCLM           unknown        
 UHOH-WRF361H             UHOH           non-commercial 
 UM-WRF331                UM             unknown        
+UNIBELGRADE-EBU1         UNIBELGRADE    non-commercial 
+UNIBELGRADE-EBUPOM2c1    UNIBELGRADE    non-commercial 
 UNSW-WRF360J             UNSW           unrestricted   
 UNSW-WRF360K             UNSW           unrestricted   
 UNSW-WRF360L             UNSW           unrestricted   
