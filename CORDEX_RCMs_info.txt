@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2015-06-04 16:32:53
+# Timestamp:  2015-06-16 16:58:51
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -29,7 +29,8 @@ HMS-ALADIN52             HMS            non-commercial      Hungarian Meteorolog
 ICTP-RegCM4-3            ICTP           unrestricted         Abdus Salam International Centre for Theoretical Physics
 IDL-WRF350D              IDL            non-commercial      Instituto Dom Luiz, University of Lisbon
 IITM-RegCM4-1            IITM           non-commercial      Indian Institute of Tropical Meteorology
-IPSL-INERIS-WRF331F      IPSL-INERIS    unknown             Institut Pierre-Simon Laplace
+IPSL-INERIS-WRF311       IPSL-INERIS    non-commercial      Institut Pierre-Simon Laplace
+IPSL-INERIS-WRF311NEMO   IPSL-INERIS    non-commercial      Institut Pierre-Simon Laplace
 KNMI-RACMO21P            KNMI           unrestricted        Royal Netherlands Meteorological Institute, De Bilt, The Netherlands
 KNMI-RACMO22E            KNMI           unrestricted        Royal Netherlands Meteorological Institute, De Bilt, The Netherlands
 KNMI-RACMO22T            KNMI           unrestricted        Royal Netherlands Meteorological Institute, De Bilt, The Netherlands
