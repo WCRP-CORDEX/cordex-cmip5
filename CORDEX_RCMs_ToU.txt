@@ -2,12 +2,12 @@
 # Do not change this file - it is auto-generated based on the contents 
 # of the CORDEX RCM registration sheet  
 # To register CORDEX simulations please contact cordex-registration /at/ smhi.se 
-# Timestamp:  2016-04-14 17:44:09
+# Timestamp:  2016-04-15 16:52:08
 # -------------------------------------------------------------- 
 # model id           institute id             ToU  
 # --------------------------------------------------------------- 
 AUTH-LHTEE-WRF321B       AUTH-LHTEE     unknown        
-AUTH-Met-WRF331A         AUTH-Met       unknown        
+AUTH-Met-WRF371          AUTH-Met       unrestricted   
 AWI-HIRHAM5              AWI            unrestricted   
 BCCR-WRF331              BCCR           unrestricted   
 BCCR-WRF331C             BCCR           unrestricted   
