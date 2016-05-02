@@ -1,6 +1,6 @@
  model_id, institute_id, terms_of_use 
 AUTH-LHTEE-WRF321B, AUTH-LHTEE, unknown
-AUTH-Met-WRF371, AUTH-Met, unrestricted
+AUTH-MC-WRF371, AUTH-MC, unrestricted
 AWI-HIRHAM5, AWI, unrestricted
 BCCR-WRF331, BCCR, unrestricted
 BCCR-WRF331C, BCCR, unrestricted
@@ -31,7 +31,7 @@ KNMI-RACMO21P, KNMI, unrestricted
 KNMI-RACMO22E, KNMI, unrestricted
 KNMI-RACMO22T, KNMI, unrestricted
 MGO-RRCM, MGO, unrestricted
-MIUB-WRF331A, MIUB, unknown
+MIUB-WRF331A, MIUB, unrestricted
 MOHC-HadGEM3-RA, MOHC, unrestricted
 MOHC-HadRM3P, MOHC, unrestricted
 MPI-CSC-REMO2009, MPI-CSC, unrestricted
@@ -44,8 +44,8 @@ SMHI-RCA4-SN, SMHI, unrestricted
 SMHI-RCAO, SMHI, unrestricted
 SMHI-RCAO-SN, SMHI, unrestricted
 UCAN-WRF331G, UCAN, non-commercial
-UCAN-WRF350I, UCAN, unknown
-UCLM-PROMES, UCLM, unknown
+UCAN-WRF350I, UCAN, non-commercial
+UCLM-PROMES, UCLM, unrestricted
 UHOH-WRF361H, UHOH, non-commercial 
 UM-RegCM4-3, UM, unrestricted
 UM-WRF331, UM, unknown
