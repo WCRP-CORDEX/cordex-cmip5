@@ -2,7 +2,7 @@
 # Do not change this file - it is auto-generated based on the contents 
 # of the CORDEX RCM registration sheet  
 # To register CORDEX simulations please contact cordex-registration /at/ smhi.se 
-# Timestamp:  2016-05-02 10:31:31
+# Timestamp:  2016-05-04 14:43:11
 # -------------------------------------------------------------- 
 # model id           institute id             ToU  
 # --------------------------------------------------------------- 
@@ -20,7 +20,7 @@ CNRM-ALADIN53            CNRM           non-commercial
 CNRM-ARPEGE52            CNRM           unrestricted   
 CNRM-RCSM4               CNRM           non-commercial 
 CRP-GL-WRF331A           CRP-GL         unrestricted   
-CSIRO-CCAM               CSIRO          unknown        
+CSIRO-CCAM               CSIRO          unrestricted   
 CUNI-RegCM4-2            CUNI           unknown        
 DHMZ-RegCM4-2            DHMZ           non-commercial 
 DMI-HIRHAM5              DMI            unrestricted   

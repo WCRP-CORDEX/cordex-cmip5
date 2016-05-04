@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2016-05-02 10:31:31
+# Timestamp:  2016-05-04 14:43:11
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -20,7 +20,7 @@ CNRM-ALADIN53            CNRM           non-commercial      Météo-France / Cen
 CNRM-ARPEGE52            CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
 CNRM-RCSM4               CNRM           non-commercial      Météo-France / Centre National de Recherches Météorologiques
 CRP-GL-WRF331A           CRP-GL         unrestricted        Public Research Centre - Gabriel Lippmann, Luxembourg
-CSIRO-CCAM               CSIRO          unknown             Commonwealth Scientific and Industrial Research Organisation
+CSIRO-CCAM               CSIRO          unrestricted        Commonwealth Scientific and Industrial Research Organisation
 CUNI-RegCM4-2            CUNI           unknown             Charles University
 DHMZ-RegCM4-2            DHMZ           non-commercial      Meteorological and Hydrological Service of Croatia
 DMI-HIRHAM5              DMI            unrestricted        Danish Meteorological Institute
