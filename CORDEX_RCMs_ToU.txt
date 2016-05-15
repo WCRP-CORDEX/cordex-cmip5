@@ -2,7 +2,7 @@
 # Do not change this file - it is auto-generated based on the contents 
 # of the CORDEX RCM registration sheet  
 # To register CORDEX simulations please contact cordex-registration /at/ smhi.se 
-# Timestamp:  2016-05-04 14:43:11
+# Timestamp:  2016-05-15 20:48:05
 # -------------------------------------------------------------- 
 # model id           institute id             ToU  
 # --------------------------------------------------------------- 
@@ -14,7 +14,7 @@ BCCR-WRF331C             BCCR           unrestricted
 BCCR-WRF361              BCCR           unrestricted   
 CCCma-CanRCM4            CCCma          unrestricted   
 CHMI-ALADIN53            CHMI           non-commercial 
-CLMcom-CCLM4-8-17        CLMcom         non-commercial 
+CLMcom-CCLM4-8-17        CLMcom         unrestricted   
 CNRM-ALADIN52            CNRM           non-commercial 
 CNRM-ALADIN53            CNRM           non-commercial 
 CNRM-ARPEGE52            CNRM           unrestricted   
