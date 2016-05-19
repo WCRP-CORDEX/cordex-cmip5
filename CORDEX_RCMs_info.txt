@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2016-05-15 20:48:05
+# Timestamp:  2016-05-19 16:29:23
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -55,7 +55,7 @@ UCAN-WRF350I             UCAN           non-commercial      University of Cantab
 UCLM-PROMES              UCLM           unrestricted        University of Castilla-La Mancha, Toledo, Spain
 UHOH-WRF361H             UHOH           non-commercial      University of Hohenheim 
 UM-RegCM4-3              UM             unrestricted        University of Michigan
-UM-WRF331                UM             unknown             Universidad de Murcia
+UM-WRF331                UM             unrestricted        Universidad de Murcia
 UNIBELGRADE-EBU1         UNIBELGRADE    non-commercial      University of Belgrade, South East European Virtual Climate Change Center and University of Novi Sad
 UNIBELGRADE-EBUPOM2c1    UNIBELGRADE    non-commercial      University of Belgrade, South East European Virtual Climate Change Center and University of Novi Sad
 UNSW-WRF360J             UNSW           unrestricted        University of New South Wales
