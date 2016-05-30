@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2016-05-19 16:29:23
+# Timestamp:  2016-05-30 14:37:18
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -15,6 +15,7 @@ BCCR-WRF361              BCCR           unrestricted        Uni Research and the
 CCCma-CanRCM4            CCCma          unrestricted        CCCma (Canadian Centre for Climate Modelling and Analysis, Victoria, BC, Canada)
 CHMI-ALADIN53            CHMI           non-commercial      Czech Hydrometeorological Institute
 CLMcom-CCLM4-8-17        CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
+CMCC-REMHI               CMCC           non-commercial      Centro Euromediterraneo sui Cambiamenti Climatici
 CNRM-ALADIN52            CNRM           non-commercial      Météo-France / Centre National de Recherches Météorologiques
 CNRM-ALADIN53            CNRM           non-commercial      Météo-France / Centre National de Recherches Météorologiques
 CNRM-ARPEGE52            CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
