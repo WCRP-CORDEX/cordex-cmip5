@@ -2,7 +2,7 @@
 # Do not change this file - it is auto-generated based on the contents 
 # of the CORDEX RCM registration sheet  
 # To register CORDEX simulations please contact cordex-registration /at/ smhi.se 
-# Timestamp:  2016-09-23 12:34:23
+# Timestamp:  2016-11-02 14:04:19
 # -------------------------------------------------------------- 
 # model id           institute id             ToU  
 # --------------------------------------------------------------- 
@@ -26,6 +26,8 @@ CUNI-RegCM4-2            CUNI           unknown
 DHMZ-RegCM4-2            DHMZ           non-commercial 
 DMI-HIRHAM5              DMI            unrestricted   
 ENEA-RegCM4-3            ENEA           non-commercial 
+GERICS-AWI-REMO2009      GERICS-AWI     unrestricted   
+GERICS-AWI-ROM1.1        GERICS-AWI     unrestricted   
 GERICS-REMO2009          GERICS         unrestricted   
 HMS-ALADIN52             HMS            non-commercial 
 ICTP-RegCM4-3            ICTP           unrestricted   
@@ -63,4 +65,5 @@ UNSW-WRF360J             UNSW           unrestricted
 UNSW-WRF360K             UNSW           unrestricted   
 UNSW-WRF360L             UNSW           unrestricted   
 UQAM-CRCM5               UQAM           unrestricted   
+UQAM-CRCM5-SN            UQAM           unrestricted   
 Ulg-MAR36                Ulg            unrestricted   

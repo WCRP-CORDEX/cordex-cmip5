@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2016-09-23 12:34:23
+# Timestamp:  2016-11-02 14:04:19
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -26,6 +26,8 @@ CUNI-RegCM4-2            CUNI           unknown             Charles University
 DHMZ-RegCM4-2            DHMZ           non-commercial      Meteorological and Hydrological Service of Croatia
 DMI-HIRHAM5              DMI            unrestricted        Danish Meteorological Institute
 ENEA-RegCM4-3            ENEA           non-commercial      Italian National Agency for New Technologies, Energy and Sustainable Economic Development
+GERICS-AWI-REMO2009      GERICS-AWI     unrestricted        Helmholtz-Zentrum Geesthacht, Climate Service Center Germany, Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research
+GERICS-AWI-ROM1.1        GERICS-AWI     unrestricted        Helmholtz-Zentrum Geesthacht, Climate Service Center Germany, Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research
 GERICS-REMO2009          GERICS         unrestricted        Helmholtz-Zentrum Geesthacht, Climate Service Center Germany
 HMS-ALADIN52             HMS            non-commercial      Hungarian Meteorological Service
 ICTP-RegCM4-3            ICTP           unrestricted         Abdus Salam International Centre for Theoretical Physics
@@ -63,4 +65,5 @@ UNSW-WRF360J             UNSW           unrestricted        University of New So
 UNSW-WRF360K             UNSW           unrestricted        University of New South Wales
 UNSW-WRF360L             UNSW           unrestricted        University of New South Wales
 UQAM-CRCM5               UQAM           unrestricted        Universite du Quebec a Montreal
+UQAM-CRCM5-SN            UQAM           unrestricted        Universite du Quebec a Montreal
 Ulg-MAR36                Ulg            unrestricted        Dpt. Of Geography, University of Liège, Belgium
