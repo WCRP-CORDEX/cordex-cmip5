@@ -2,12 +2,12 @@
 # Do not change this file - it is auto-generated based on the contents 
 # of the CORDEX RCM registration sheet  
 # To register CORDEX simulations please contact cordex-registration /at/ smhi.se 
-# Timestamp:  2016-11-02 14:04:19
+# Timestamp:  2017-01-08 12:37:00
 # -------------------------------------------------------------- 
 # model id           institute id             ToU  
 # --------------------------------------------------------------- 
 AUTH-LHTEE-WRF321B       AUTH-LHTEE     unknown        
-AUTH-MC-WRF371           AUTH-MC        unrestricted   
+AUTH-MC-WRF371M          AUTH-MC        unrestricted   
 AWI-HIRHAM5              AWI            unrestricted   
 BCCR-WRF331              BCCR           unrestricted   
 BCCR-WRF331C             BCCR           unrestricted   
@@ -57,6 +57,7 @@ UCAN-WRF331G             UCAN           non-commercial
 UCAN-WRF350I             UCAN           non-commercial 
 UCLM-PROMES              UCLM           unrestricted   
 UHOH-WRF361H             UHOH           non-commercial 
+ULg-MAR36                ULg            unrestricted   
 UM-RegCM4-3              UM             unrestricted   
 UM-WRF331                UM             unrestricted   
 UNIBELGRADE-EBU1         UNIBELGRADE    non-commercial 
@@ -66,4 +67,3 @@ UNSW-WRF360K             UNSW           unrestricted
 UNSW-WRF360L             UNSW           unrestricted   
 UQAM-CRCM5               UQAM           unrestricted   
 UQAM-CRCM5-SN            UQAM           unrestricted   
-Ulg-MAR36                Ulg            unrestricted   
