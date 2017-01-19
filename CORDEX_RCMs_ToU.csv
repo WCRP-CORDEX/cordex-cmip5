@@ -9,6 +9,7 @@ CCCma-CanRCM4, CCCma, unrestricted
 CHMI-ALADIN53, CHMI, non-commercial
 CLMcom-CCLM4-8-17, CLMcom, unrestricted
 CLMcom-CCLM4-8-17-CLM3-5, CLMcom, unrestricted
+CLMcom-CCLM5-0-2, CLMcom, unrestricted
 CMCC-REMHI, CMCC, non-commercial
 CNRM-ALADIN52, CNRM, non-commercial
 CNRM-ALADIN53, CNRM, non-commercial
@@ -16,13 +17,14 @@ CNRM-ARPEGE52, CNRM, unrestricted
 CNRM-RCSM4, CNRM, non-commercial
 CRP-GL-WRF331A, CRP-GL, unrestricted
 CSIRO-CCAM, CSIRO, unrestricted
-CUNI-RegCM4-2, CUNI, unknown
+CUNI-RegCM4-2, CUNI, unrestricted
 DHMZ-RegCM4-2, DHMZ, non-commercial
 DMI-HIRHAM5, DMI, unrestricted
 ENEA-RegCM4-3, ENEA, non-commercial
 GERICS-AWI-REMO2009, GERICS-AWI, unrestricted
 GERICS-AWI-ROM1.1, GERICS-AWI, unrestricted
 GERICS-REMO2009, GERICS, unrestricted
+GERICS-REMO2015, GERICS, unrestricted
 HMS-ALADIN52, HMS, non-commercial
 ICTP-RegCM4-3, ICTP, unrestricted
 IDL-WRF350D, IDL, non-commercial
@@ -42,7 +44,7 @@ MPI-CSC-REMO2009, MPI-CSC, unrestricted
 MU-WRF360M, MU, non-commercial
 NUIM-WRF341E, NUIM, non-commercial
 OURANOS-CRCM5, OURANOS, unrestricted
-RMIB-Ugent-ALARO-0, RMIB-Ugent, non-commercial
+RMIB-UGent-ALARO-0, RMIB-UGent, non-commercial
 SMHI-RCA4, SMHI, unrestricted
 SMHI-RCA4-SN, SMHI, unrestricted
 SMHI-RCAO, SMHI, unrestricted
