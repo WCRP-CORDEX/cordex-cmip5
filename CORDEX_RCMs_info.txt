@@ -2,11 +2,11 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2017-01-30 16:11:44
+# Timestamp:  2017-04-05 14:53:25
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
-AUTH-LHTEE-WRF321B       AUTH-LHTEE     unknown             Aristotle University of Thessaloniki, Laboratory of Heat Transfer and Environmental Engeneering
+AUTH-LHTEE-WRF321B       AUTH-LHTEE     unrestricted        Aristotle University of Thessaloniki, Laboratory of Heat Transfer and Environmental Engeneering
 AUTH-MC-WRF371M          AUTH-MC        unrestricted        Aristotle University of Thessaloniki, Department of Meteorology & Climatology
 AWI-HIRHAM5              AWI            unrestricted        Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research
 BCCR-WRF331              BCCR           unrestricted        Uni Research and the Bjerknes Centre for Climate Research
