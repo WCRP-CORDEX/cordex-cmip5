@@ -2,12 +2,12 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2017-04-05 14:53:25
+# Timestamp:  2018-01-23 19:40:50
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
 AUTH-LHTEE-WRF321B       AUTH-LHTEE     unrestricted        Aristotle University of Thessaloniki, Laboratory of Heat Transfer and Environmental Engeneering
-AUTH-MC-WRF371M          AUTH-MC        unrestricted        Aristotle University of Thessaloniki, Department of Meteorology & Climatology
+AUTH-MC-WRF371M          AUTH-MC        unrestricted        Aristotle University of Thessaloniki, Department of Meteorology & Climatology 
 AWI-HIRHAM5              AWI            unrestricted        Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research
 BCCR-WRF331              BCCR           unrestricted        Uni Research and the Bjerknes Centre for Climate Research
 BCCR-WRF331C             BCCR           unrestricted        Uni Research and the Bjerknes Centre for Climate Research
@@ -33,7 +33,7 @@ GERICS-AWI-ROM1.1        GERICS-AWI     unrestricted        Helmholtz-Zentrum Ge
 GERICS-REMO2009          GERICS         unrestricted        Helmholtz-Zentrum Geesthacht, Climate Service Center Germany
 GERICS-REMO2015          GERICS         unrestricted        Climate Service Center Germany
 HMS-ALADIN52             HMS            non-commercial      Hungarian Meteorological Service
-ICTP-RegCM4-3            ICTP           unrestricted        Abdus Salam International Centre for Theoretical Physics
+ICTP-RegCM4-3            ICTP           unrestricted         Abdus Salam International Centre for Theoretical Physics
 IDL-WRF350D              IDL            non-commercial      Instituto Dom Luiz, University of Lisbon
 IITM-RegCM4-1            IITM           non-commercial      Indian Institute of Tropical Meteorology
 IPSL-INERIS-WRF331F      IPSL-INERIS    unrestricted        Institut Pierre-Simon Laplace
@@ -48,7 +48,7 @@ MIUB-WRF331A             MIUB           unrestricted        Meteorological Insti
 MOHC-HadGEM3-RA          MOHC           unrestricted        Met Office Hadley Centre
 MOHC-HadRM3P             MOHC           unrestricted        Met Office Hadley Centre
 MPI-CSC-REMO2009         MPI-CSC        unrestricted        Helmholtz-Zentrum Geesthacht, Climate Service Center, Max Planck Institute for Meteorology
-MU-WRF360M               MU             non-commercial      Murdoch University
+MU-WRF360M               MU             non-commercial      Murdoch University 
 NUIM-WRF341E             NUIM           non-commercial      National University of Ireland Maynooth
 OURANOS-CRCM5            OURANOS        unrestricted        Ouranos Consortium on climate change
 RMIB-UGent-ALARO-0       RMIB-UGent     non-commercial      Royal Meteorological Institute of Belgium and Ghent University
@@ -59,7 +59,7 @@ SMHI-RCAO-SN             SMHI           unrestricted        Swedish Meteorologic
 UCAN-WRF331G             UCAN           non-commercial      University of Cantabria
 UCAN-WRF350I             UCAN           non-commercial      University of Cantabria
 UCLM-PROMES              UCLM           unrestricted        University of Castilla-La Mancha, Toledo, Spain
-UHOH-WRF361H             UHOH           non-commercial      University of Hohenheim
+UHOH-WRF361H             UHOH           non-commercial      University of Hohenheim 
 ULg-MAR36                ULg            unrestricted        Dpt. Of Geography, University of Liège, Belgium
 UM-RegCM4-3              UM             unrestricted        University of Michigan
 UM-WRF331                UM             unrestricted        Universidad de Murcia
