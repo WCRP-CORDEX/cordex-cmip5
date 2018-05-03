@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2018-01-23 19:40:50
+# Timestamp:  2018-05-03 12:55:36
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -16,7 +16,9 @@ CCCma-CanRCM4            CCCma          unrestricted        CCCma (Canadian Cent
 CHMI-ALADIN53            CHMI           non-commercial      Czech Hydrometeorological Institute
 CLMcom-CCLM4-8-17        CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
 CLMcom-CCLM4-8-17-CLM3-5 CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
+CLMcom-CCLM5-0-0         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
 CLMcom-CCLM5-0-2         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
+CLMcom-CCLM5-0-6         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
 CMCC-REMHI               CMCC           non-commercial      Centro Euromediterraneo sui Cambiamenti Climatici
 CNRM-ALADIN52            CNRM           non-commercial      Météo-France / Centre National de Recherches Météorologiques
 CNRM-ALADIN53            CNRM           non-commercial      Météo-France / Centre National de Recherches Météorologiques
@@ -36,6 +38,7 @@ HMS-ALADIN52             HMS            non-commercial      Hungarian Meteorolog
 ICTP-RegCM4-3            ICTP           unrestricted         Abdus Salam International Centre for Theoretical Physics
 IDL-WRF350D              IDL            non-commercial      Instituto Dom Luiz, University of Lisbon
 IITM-RegCM4-1            IITM           non-commercial      Indian Institute of Tropical Meteorology
+INPE-ETA                 INPE           unrestricted        National Institute for Space Research, Brazil
 IPSL-INERIS-WRF331F      IPSL-INERIS    unrestricted        Institut Pierre-Simon Laplace
 IPSL-INERIS-WRF361F      IPSL-INERIS    unrestricted        Institut Pierre-Simon Laplace
 IPSL-WRF311              IPSL           non-commercial      Institut Pierre-Simon Laplace
@@ -57,7 +60,7 @@ SMHI-RCA4-SN             SMHI           unrestricted        Swedish Meteorologic
 SMHI-RCAO                SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
 SMHI-RCAO-SN             SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
 UCAN-WRF331G             UCAN           non-commercial      University of Cantabria
-UCAN-WRF350I             UCAN           non-commercial      University of Cantabria
+UCAN-WRF341I             UCAN           non-commercial      University of Cantabria
 UCLM-PROMES              UCLM           unrestricted        University of Castilla-La Mancha, Toledo, Spain
 UHOH-WRF361H             UHOH           non-commercial      University of Hohenheim 
 ULg-MAR36                ULg            unrestricted        Dpt. Of Geography, University of Liège, Belgium

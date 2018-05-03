@@ -9,7 +9,9 @@ CCCma-CanRCM4, CCCma, unrestricted
 CHMI-ALADIN53, CHMI, non-commercial
 CLMcom-CCLM4-8-17, CLMcom, unrestricted
 CLMcom-CCLM4-8-17-CLM3-5, CLMcom, unrestricted
+CLMcom-CCLM5-0-0, CLMcom, unrestricted
 CLMcom-CCLM5-0-2, CLMcom, unrestricted
+CLMcom-CCLM5-0-6, CLMcom, unrestricted
 CMCC-REMHI, CMCC, non-commercial
 CNRM-ALADIN52, CNRM, non-commercial
 CNRM-ALADIN53, CNRM, non-commercial
@@ -29,6 +31,7 @@ HMS-ALADIN52, HMS, non-commercial
 ICTP-RegCM4-3, ICTP, unrestricted
 IDL-WRF350D, IDL, non-commercial
 IITM-RegCM4-1, IITM, non-commercial
+INPE-ETA, INPE, unrestricted
 IPSL-INERIS-WRF331F, IPSL-INERIS, unrestricted
 IPSL-INERIS-WRF361F, IPSL-INERIS, unrestricted
 IPSL-WRF311, IPSL, non-commercial
@@ -50,7 +53,7 @@ SMHI-RCA4-SN, SMHI, unrestricted
 SMHI-RCAO, SMHI, unrestricted
 SMHI-RCAO-SN, SMHI, unrestricted
 UCAN-WRF331G, UCAN, non-commercial
-UCAN-WRF350I, UCAN, non-commercial
+UCAN-WRF341I, UCAN, non-commercial
 UCLM-PROMES, UCLM, unrestricted
 UHOH-WRF361H, UHOH, non-commercial 
 ULg-MAR36, ULg, unrestricted
