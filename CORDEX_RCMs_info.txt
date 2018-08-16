@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2018-08-07 09:57:12
+# Timestamp:  2018-08-16 17:28:22
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -24,6 +24,7 @@ CNRM-ALADIN52            CNRM           non-commercial      Météo-France / Cen
 CNRM-ALADIN53            CNRM           non-commercial      Météo-France / Centre National de Recherches Météorologiques
 CNRM-ARPEGE52            CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
 CNRM-RCSM4               CNRM           non-commercial      Météo-France / Centre National de Recherches Météorologiques
+CRC-BGS-WRF381           CRC-BGS        non-commercial      Centre de Recherches de Climatologie, Biogéoscience, Université de Bourgogne Franche-Comté
 CRP-GL-WRF331A           CRP-GL         unrestricted        Public Research Centre - Gabriel Lippmann, Luxembourg
 CSIRO-CCAM               CSIRO          unrestricted        Commonwealth Scientific and Industrial Research Organisation
 CUNI-RegCM4-2            CUNI           unrestricted        Charles University
@@ -73,3 +74,4 @@ UNSW-WRF360K             UNSW           unrestricted        University of New So
 UNSW-WRF360L             UNSW           unrestricted        University of New South Wales
 UQAM-CRCM5               UQAM           unrestricted        Universite du Quebec a Montreal
 UQAM-CRCM5-SN            UQAM           unrestricted        Universite du Quebec a Montreal
+WEGC-WRF371O             WEGC           unrestricted        Wegener Center for Climate and Global Change, University of Graz
