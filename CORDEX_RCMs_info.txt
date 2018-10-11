@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2018-08-16 17:28:22
+# Timestamp:  2018-10-11 13:19:38
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -12,6 +12,7 @@ AWI-HIRHAM5              AWI            unrestricted        Alfred Wegener Insti
 BCCR-WRF331              BCCR           unrestricted        Uni Research and the Bjerknes Centre for Climate Research
 BCCR-WRF331C             BCCR           unrestricted        Uni Research and the Bjerknes Centre for Climate Research
 BCCR-WRF361              BCCR           unrestricted        Uni Research and the Bjerknes Centre for Climate Research
+BOUN-RegCM4-3            BOUN           non-commercial      Bogazici University, Turkey
 CCCma-CanRCM4            CCCma          unrestricted        CCCma (Canadian Centre for Climate Modelling and Analysis, Victoria, BC, Canada)
 CHMI-ALADIN53            CHMI           non-commercial      Czech Hydrometeorological Institute
 CLMcom-CCLM4-8-17        CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
