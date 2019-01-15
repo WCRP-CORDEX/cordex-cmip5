@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2018-10-11 13:19:38
+# Timestamp:  2019-01-15 17:34:11
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -38,6 +38,7 @@ GERICS-REMO2009          GERICS         unrestricted        Helmholtz-Zentrum Ge
 GERICS-REMO2015          GERICS         unrestricted        Climate Service Center Germany
 HMS-ALADIN52             HMS            non-commercial      Hungarian Meteorological Service
 ICTP-RegCM4-3            ICTP           unrestricted         Abdus Salam International Centre for Theoretical Physics
+ICTP-RegCM4-7            ICTP           unrestricted         Abdus Salam International Centre for Theoretical Physics
 IDL-WRF350D              IDL            non-commercial      Instituto Dom Luiz, University of Lisbon
 IITM-RegCM4-1            IITM           non-commercial      Indian Institute of Tropical Meteorology
 INPE-ETA                 INPE           unrestricted        National Institute for Space Research, Brazil
@@ -48,19 +49,24 @@ IPSL-WRF311NEMO          IPSL           non-commercial      Institut Pierre-Simo
 KNMI-RACMO21P            KNMI           unrestricted        Royal Netherlands Meteorological Institute, De Bilt, The Netherlands
 KNMI-RACMO22E            KNMI           unrestricted        Royal Netherlands Meteorological Institute, De Bilt, The Netherlands
 KNMI-RACMO22T            KNMI           unrestricted        Royal Netherlands Meteorological Institute, De Bilt, The Netherlands
+KNU-RegCM4-0             KNU            unrestricted        Kongju National University, S. Korea
 MGO-RRCM                 MGO            unrestricted        Main Geophysical Observatory, St. Petersburg
 MIUB-WRF331A             MIUB           unrestricted        Meteorological Institute, Bonn University
 MOHC-HadGEM3-RA          MOHC           unrestricted        Met Office Hadley Centre
 MOHC-HadRM3P             MOHC           unrestricted        Met Office Hadley Centre
 MPI-CSC-REMO2009         MPI-CSC        unrestricted        Helmholtz-Zentrum Geesthacht, Climate Service Center, Max Planck Institute for Meteorology
 MU-WRF360M               MU             non-commercial      Murdoch University 
+NIMS-HadGEM3-RA          NIMS           unrestricted        National Institute of Meteorological Sciences, S. Korea
 NUIM-WRF341E             NUIM           non-commercial      National University of Ireland Maynooth
 OURANOS-CRCM5            OURANOS        unrestricted        Ouranos Consortium on climate change
+PNU-WRF370               PNU            unrestricted        Pusan National University, S. Korea
+POSTECH-CCLM5-0-9        POSTECH        unrestricted        Pohang University of Science and Technology, S. Korea
 RMIB-UGent-ALARO-0       RMIB-UGent     non-commercial      Royal Meteorological Institute of Belgium and Ghent University
 SMHI-RCA4                SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
 SMHI-RCA4-SN             SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
 SMHI-RCAO                SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
 SMHI-RCAO-SN             SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
+SNU-SNU-RCM2             SNU            unrestricted        Ulsan National Institute of Science and Technology, S. Korea
 UCAN-WRF331G             UCAN           non-commercial      University of Cantabria
 UCAN-WRF341I             UCAN           non-commercial      University of Cantabria
 UCLM-PROMES              UCLM           unrestricted        University of Castilla-La Mancha, Toledo, Spain
