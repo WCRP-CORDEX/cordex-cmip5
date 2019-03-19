@@ -31,6 +31,7 @@ GERICS-REMO2009, GERICS, unrestricted
 GERICS-REMO2015, GERICS, unrestricted
 HMS-ALADIN52, HMS, non-commercial
 ICTP-RegCM4-3, ICTP, unrestricted
+ICTP-RegCM4-6, ICTP, unrestricted
 ICTP-RegCM4-7, ICTP, unrestricted
 IDL-WRF350D, IDL, non-commercial
 IITM-RegCM4-1, IITM, non-commercial
@@ -49,7 +50,7 @@ MOHC-HadGEM3-RA, MOHC, unrestricted
 MOHC-HadRM3P, MOHC, unrestricted
 MPI-CSC-REMO2009, MPI-CSC, unrestricted
 MU-WRF360M, MU, non-commercial
-NIMS-HadGEM3-RA, NIMS, unrestricted
+NIMS-KMA-HadGEM3-RA, NIMS-KMA, unrestricted
 NUIM-WRF341E, NUIM, non-commercial
 OURANOS-CRCM5, OURANOS, unrestricted
 PNU-WRF370, PNU, unrestricted

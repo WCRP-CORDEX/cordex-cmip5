@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2019-01-15 17:34:11
+# Timestamp:  2019-03-19 18:40:50
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -38,6 +38,7 @@ GERICS-REMO2009          GERICS         unrestricted        Helmholtz-Zentrum Ge
 GERICS-REMO2015          GERICS         unrestricted        Climate Service Center Germany
 HMS-ALADIN52             HMS            non-commercial      Hungarian Meteorological Service
 ICTP-RegCM4-3            ICTP           unrestricted         Abdus Salam International Centre for Theoretical Physics
+ICTP-RegCM4-6            ICTP           unrestricted         Abdus Salam International Centre for Theoretical Physics
 ICTP-RegCM4-7            ICTP           unrestricted         Abdus Salam International Centre for Theoretical Physics
 IDL-WRF350D              IDL            non-commercial      Instituto Dom Luiz, University of Lisbon
 IITM-RegCM4-1            IITM           non-commercial      Indian Institute of Tropical Meteorology
@@ -56,7 +57,7 @@ MOHC-HadGEM3-RA          MOHC           unrestricted        Met Office Hadley Ce
 MOHC-HadRM3P             MOHC           unrestricted        Met Office Hadley Centre
 MPI-CSC-REMO2009         MPI-CSC        unrestricted        Helmholtz-Zentrum Geesthacht, Climate Service Center, Max Planck Institute for Meteorology
 MU-WRF360M               MU             non-commercial      Murdoch University 
-NIMS-HadGEM3-RA          NIMS           unrestricted        National Institute of Meteorological Sciences, S. Korea
+NIMS-KMA-HadGEM3-RA      NIMS-KMA       unrestricted        National Institute of Meteorological Sciences-Korea Meteorological Administration
 NUIM-WRF341E             NUIM           non-commercial      National University of Ireland Maynooth
 OURANOS-CRCM5            OURANOS        unrestricted        Ouranos Consortium on climate change
 PNU-WRF370               PNU            unrestricted        Pusan National University, S. Korea
