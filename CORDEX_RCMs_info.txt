@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2019-03-19 18:40:50
+# Timestamp:  2019-07-08 12:01:32
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -20,6 +20,7 @@ CLMcom-CCLM4-8-17-CLM3-5 CLMcom         unrestricted        Climate Limited-area
 CLMcom-CCLM5-0-0         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
 CLMcom-CCLM5-0-2         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
 CLMcom-CCLM5-0-6         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
+CLMcom-GUF-CCLM5-0-9     CLMcom-GUF     unrestricted        Institute for Atmospheric and Environmental Sciences, Goethe University Frankfurt
 CMCC-REMHI               CMCC           non-commercial      Centro Euromediterraneo sui Cambiamenti Climatici
 CNRM-ALADIN52            CNRM           non-commercial      Météo-France / Centre National de Recherches Météorologiques
 CNRM-ALADIN53            CNRM           non-commercial      Météo-France / Centre National de Recherches Météorologiques
@@ -54,6 +55,7 @@ KNU-RegCM4-0             KNU            unrestricted        Kongju National Univ
 MGO-RRCM                 MGO            unrestricted        Main Geophysical Observatory, St. Petersburg
 MIUB-WRF331A             MIUB           unrestricted        Meteorological Institute, Bonn University
 MOHC-HadGEM3-RA          MOHC           unrestricted        Met Office Hadley Centre
+MOHC-HadREM3-GA7.05      MOHC           unrestricted        Met Office Hadley Centre
 MOHC-HadRM3P             MOHC           unrestricted        Met Office Hadley Centre
 MPI-CSC-REMO2009         MPI-CSC        unrestricted        Helmholtz-Zentrum Geesthacht, Climate Service Center, Max Planck Institute for Meteorology
 MU-WRF360M               MU             non-commercial      Murdoch University 
