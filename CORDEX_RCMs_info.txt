@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2019-07-08 12:01:32
+# Timestamp:  2019-09-03 17:19:47
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -20,6 +20,7 @@ CLMcom-CCLM4-8-17-CLM3-5 CLMcom         unrestricted        Climate Limited-area
 CLMcom-CCLM5-0-0         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
 CLMcom-CCLM5-0-2         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
 CLMcom-CCLM5-0-6         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
+CLMcom-ETH-COSMO-crCLIM-v1-1CLMcom-ETH     unrestricted        ETH Zurich, Zurich, Switzerland in collaboration with the CLM-Community
 CLMcom-GUF-CCLM5-0-9     CLMcom-GUF     unrestricted        Institute for Atmospheric and Environmental Sciences, Goethe University Frankfurt
 CMCC-REMHI               CMCC           non-commercial      Centro Euromediterraneo sui Cambiamenti Climatici
 CNRM-ALADIN52            CNRM           non-commercial      Météo-France / Centre National de Recherches Météorologiques
@@ -69,7 +70,6 @@ SMHI-RCA4                SMHI           unrestricted        Swedish Meteorologic
 SMHI-RCA4-SN             SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
 SMHI-RCAO                SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
 SMHI-RCAO-SN             SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
-SNU-SNU-RCM2             SNU            unrestricted        Ulsan National Institute of Science and Technology, S. Korea
 UCAN-WRF331G             UCAN           non-commercial      University of Cantabria
 UCAN-WRF341I             UCAN           non-commercial      University of Cantabria
 UCLM-PROMES              UCLM           unrestricted        University of Castilla-La Mancha, Toledo, Spain
@@ -79,6 +79,7 @@ UM-RegCM4-3              UM             unrestricted        University of Michig
 UM-WRF331                UM             unrestricted        Universidad de Murcia
 UNIBELGRADE-EBU1         UNIBELGRADE    non-commercial      University of Belgrade, South East European Virtual Climate Change Center and University of Novi Sad
 UNIBELGRADE-EBUPOM2c1    UNIBELGRADE    non-commercial      University of Belgrade, South East European Virtual Climate Change Center and University of Novi Sad
+UNIST-SNURCM             UNIST          unrestricted        Ulsan National Institute of Science and Technology, S. Korea
 UNSW-WRF360J             UNSW           unrestricted        University of New South Wales
 UNSW-WRF360K             UNSW           unrestricted        University of New South Wales
 UNSW-WRF360L             UNSW           unrestricted        University of New South Wales

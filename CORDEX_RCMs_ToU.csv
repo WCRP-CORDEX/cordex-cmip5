@@ -13,6 +13,7 @@ CLMcom-CCLM4-8-17-CLM3-5, CLMcom, unrestricted
 CLMcom-CCLM5-0-0, CLMcom, unrestricted
 CLMcom-CCLM5-0-2, CLMcom, unrestricted
 CLMcom-CCLM5-0-6, CLMcom, unrestricted
+CLMcom-ETH-COSMO-crCLIM-v1-1, CLMcom-ETH, unrestricted
 CLMcom-GUF-CCLM5-0-9, CLMcom-GUF, unrestricted
 CMCC-REMHI, CMCC, non-commercial
 CNRM-ALADIN52, CNRM, non-commercial
@@ -62,7 +63,6 @@ SMHI-RCA4, SMHI, unrestricted
 SMHI-RCA4-SN, SMHI, unrestricted
 SMHI-RCAO, SMHI, unrestricted
 SMHI-RCAO-SN, SMHI, unrestricted
-SNU-SNU-RCM2, SNU, unrestricted
 UCAN-WRF331G, UCAN, non-commercial
 UCAN-WRF341I, UCAN, non-commercial
 UCLM-PROMES, UCLM, unrestricted
@@ -72,6 +72,7 @@ UM-RegCM4-3, UM, unrestricted
 UM-WRF331, UM, unrestricted
 UNIBELGRADE-EBU1, UNIBELGRADE, non-commercial
 UNIBELGRADE-EBUPOM2c1, UNIBELGRADE, non-commercial
+UNIST-SNURCM, UNIST, unrestricted
 UNSW-WRF360J, UNSW, unrestricted 
 UNSW-WRF360K, UNSW, unrestricted 
 UNSW-WRF360L, UNSW, unrestricted 
