@@ -2,11 +2,10 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2019-11-11 12:23:52
+# Timestamp:  2020-02-03 11:00:55
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
-AUTH-LHTEE-WRF321B       AUTH-LHTEE     unrestricted        Aristotle University of Thessaloniki, Laboratory of Heat Transfer and Environmental Engeneering
 AUTH-MC-WRF371M          AUTH-MC        unrestricted        Aristotle University of Thessaloniki, Department of Meteorology & Climatology 
 AWI-HIRHAM5              AWI            unrestricted        Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research
 BCCR-WRF331              BCCR           unrestricted        Uni Research and the Bjerknes Centre for Climate Research
@@ -21,10 +20,12 @@ CLMcom-CCLM4-8-17-CLM3-5 CLMcom         unrestricted        Climate Limited-area
 CLMcom-CCLM5-0-0         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
 CLMcom-CCLM5-0-2         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
 CLMcom-CCLM5-0-6         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
-CLMcom-CMCC-CCLM5-0-9    CLMcom-CMCC    non-commercial      CMCC, REMHI division, Italy in collaboration with the CLM-Community
+CLMcom-CMCC-CCLM5-0-9    CLMcom-CMCC    unrestricted        CMCC, REMHI division, Italy in collaboration with the CLM-Community
 CLMcom-DWD-CCLM5-0-15    CLMcom-DWD     unrestricted        DWD, Offenbach, Germany in collaboration with the CLM-Community
 CLMcom-ETH-COSMO-crCLIM-v1-1CLMcom-ETH     unrestricted        ETH Zurich, Zurich, Switzerland in collaboration with the CLM-Community
 CLMcom-GUF-CCLM5-0-9     CLMcom-GUF     unrestricted        Institute for Atmospheric and Environmental Sciences, Goethe University Frankfurt
+CLMcom-GUF-CCLM5-0-9-NEMOMED12-3-6CLMcom-GUF     unrestricted        Institute for Atmospheric and Environmental Sciences, Goethe University Frankfurt
+CLMcom-GUF-CCLM5-0-9-NEMOMED12-3-6-NEMONORDIC3-3CLMcom-GUF     unrestricted        Institute for Atmospheric and Environmental Sciences, Goethe University Frankfurt
 CLMcom-HZG-CCLM5-0-15    CLMcom-HZG     unrestricted        HZG, Geesthacht, Germany in collaboration with the CLM-Community
 CLMcom-JLU-CCLM5-0-15    CLMcom-JLU     unrestricted        JLU, Giessen, Germany in collaboration with the CLM-Community
 CLMcom-KIT-CCLM5-0-10    CLMcom-KIT     non-commercial      KIT, Karlsruhe, Germany in collaboration with the CLM-Community
@@ -37,6 +38,7 @@ CMCC-REMHI               CMCC           non-commercial      Centro Euromediterra
 CNRM-ALADIN52            CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
 CNRM-ALADIN53            CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
 CNRM-ALADIN63            CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
+CNRM-ALADIN64            CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
 CNRM-AROME-41t1          CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
 CNRM-ARPEGE52            CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
 CNRM-RCSM4               CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques

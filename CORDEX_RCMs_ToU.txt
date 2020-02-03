@@ -1,12 +1,11 @@
 # List of CORDEX RCMs (short, machine readable version)  
 # Do not change this file - it is auto-generated based on the contents 
 # of the CORDEX RCM registration sheet  
-# To register CORDEX simulations please contact cordex-registration /at/ smhi.se 
-# Timestamp:  2019-11-11 12:23:53
+# To register CORDEX simulations please contact cordex-registration /at/ cordex.org 
+# Timestamp:  2020-02-03 11:00:55
 # -------------------------------------------------------------- 
 # model id           institute id             ToU  
 # --------------------------------------------------------------- 
-AUTH-LHTEE-WRF321B       AUTH-LHTEE     unrestricted   
 AUTH-MC-WRF371M          AUTH-MC        unrestricted   
 AWI-HIRHAM5              AWI            unrestricted   
 BCCR-WRF331              BCCR           unrestricted   
@@ -21,10 +20,12 @@ CLMcom-CCLM4-8-17-CLM3-5 CLMcom         unrestricted
 CLMcom-CCLM5-0-0         CLMcom         unrestricted   
 CLMcom-CCLM5-0-2         CLMcom         unrestricted   
 CLMcom-CCLM5-0-6         CLMcom         unrestricted   
-CLMcom-CMCC-CCLM5-0-9    CLMcom-CMCC    non-commercial 
+CLMcom-CMCC-CCLM5-0-9    CLMcom-CMCC    unrestricted   
 CLMcom-DWD-CCLM5-0-15    CLMcom-DWD     unrestricted   
 CLMcom-ETH-COSMO-crCLIM-v1-1CLMcom-ETH     unrestricted   
 CLMcom-GUF-CCLM5-0-9     CLMcom-GUF     unrestricted   
+CLMcom-GUF-CCLM5-0-9-NEMOMED12-3-6CLMcom-GUF     unrestricted   
+CLMcom-GUF-CCLM5-0-9-NEMOMED12-3-6-NEMONORDIC3-3CLMcom-GUF     unrestricted   
 CLMcom-HZG-CCLM5-0-15    CLMcom-HZG     unrestricted   
 CLMcom-JLU-CCLM5-0-15    CLMcom-JLU     unrestricted   
 CLMcom-KIT-CCLM5-0-10    CLMcom-KIT     non-commercial 
@@ -37,6 +38,7 @@ CMCC-REMHI               CMCC           non-commercial
 CNRM-ALADIN52            CNRM           unrestricted   
 CNRM-ALADIN53            CNRM           unrestricted   
 CNRM-ALADIN63            CNRM           unrestricted   
+CNRM-ALADIN64            CNRM           unrestricted   
 CNRM-AROME-41t1          CNRM           unrestricted   
 CNRM-ARPEGE52            CNRM           unrestricted   
 CNRM-RCSM4               CNRM           unrestricted   
