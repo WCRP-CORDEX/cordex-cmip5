@@ -7,7 +7,7 @@ BCCR-WRF361, BCCR, unrestricted
 BOUN-RegCM4-3, BOUN, non-commercial
 CCCma-CanRCM4, CCCma, unrestricted
 CHMI-ALADIN53, CHMI, non-commercial
-CLMcom-BTU-CCLM5-0-14 , CLMcom-BTU, non-commercial
+CLMcom-BTU-CCLM5-0-14 , CLMcom-BTU, unrestricted
 CLMcom-CCLM4-8-17, CLMcom, unrestricted
 CLMcom-CCLM4-8-17-CLM3-5, CLMcom, unrestricted
 CLMcom-CCLM5-0-0, CLMcom, unrestricted
@@ -21,12 +21,12 @@ CLMcom-GUF-CCLM5-0-9-NEMOMED12-3-6, CLMcom-GUF, unrestricted
 CLMcom-GUF-CCLM5-0-9-NEMOMED12-3-6-NEMONORDIC3-3, CLMcom-GUF, unrestricted
 CLMcom-HZG-CCLM5-0-15, CLMcom-HZG, unrestricted
 CLMcom-JLU-CCLM5-0-15, CLMcom-JLU, unrestricted
-CLMcom-KIT-CCLM5-0-10, CLMcom-KIT, non-commercial
-CLMcom-KIT-CCLM5-0-14, CLMcom-KIT, non-commercial
-CLMcom-KIT-CCLM5-0-15, CLMcom-KIT, non-commercial
-CLMcom-KIT-CCLM5-0-9, CLMcom-KIT, non-commercial
+CLMcom-KIT-CCLM5-0-10, CLMcom-KIT, unrestricted
+CLMcom-KIT-CCLM5-0-14, CLMcom-KIT, unrestricted
+CLMcom-KIT-CCLM5-0-15, CLMcom-KIT, unrestricted
+CLMcom-KIT-CCLM5-0-9, CLMcom-KIT, unrestricted
 CLMcom-WEGC-CCLM5-0-9, CLMcom-WEGC, unrestricted
-CLMcom-ZAMG-CCLM5-0-14, CLMcom-ZAMG, non-commercial
+CLMcom-ZAMG-CCLM5-0-14, CLMcom-ZAMG, unrestricted
 CMCC-REMHI, CMCC, non-commercial
 CNRM-ALADIN52, CNRM, unrestricted
 CNRM-ALADIN53, CNRM, unrestricted
@@ -39,6 +39,7 @@ CNRM-RCSM6, CNRM, unrestricted
 CRC-BGS-WRF381, CRC-BGS, non-commercial 
 CRP-GL-WRF331A, CRP-GL, unrestricted
 CSIRO-CCAM, CSIRO, unrestricted
+CSIRO-CCAM-1704, CSIRO, unrestricted
 CUNI-RegCM4-2, CUNI, unrestricted
 DHMZ-RegCM4-2, DHMZ, non-commercial
 DMI-HIRHAM5, DMI, unrestricted
@@ -79,8 +80,8 @@ SMHI-RCA4, SMHI, unrestricted
 SMHI-RCA4-SN, SMHI, unrestricted
 SMHI-RCAO, SMHI, unrestricted
 SMHI-RCAO-SN, SMHI, unrestricted
-UCAN-WRF331G, UCAN, non-commercial
-UCAN-WRF341I, UCAN, non-commercial
+UCAN-WRF331G, UCAN, unrestricted
+UCAN-WRF341I, UCAN, unrestricted
 UCLM-PROMES, UCLM, unrestricted
 UHOH-WRF361H, UHOH, non-commercial 
 ULg-MAR36, ULg, unrestricted

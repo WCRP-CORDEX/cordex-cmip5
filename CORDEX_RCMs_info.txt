@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2020-02-03 11:00:55
+# Timestamp:  2020-11-03 12:37:14
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -14,7 +14,7 @@ BCCR-WRF361              BCCR           unrestricted        Uni Research and the
 BOUN-RegCM4-3            BOUN           non-commercial      Bogazici University, Turkey
 CCCma-CanRCM4            CCCma          unrestricted        CCCma (Canadian Centre for Climate Modelling and Analysis, Victoria, BC, Canada)
 CHMI-ALADIN53            CHMI           non-commercial      Czech Hydrometeorological Institute
-CLMcom-BTU-CCLM5-0-14    CLMcom-BTU     non-commercial      BTU, Cottbus, Germany,in collaboration with the CLM-Community
+CLMcom-BTU-CCLM5-0-14    CLMcom-BTU     unrestricted        BTU, Cottbus, Germany,in collaboration with the CLM-Community
 CLMcom-CCLM4-8-17        CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
 CLMcom-CCLM4-8-17-CLM3-5 CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
 CLMcom-CCLM5-0-0         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
@@ -28,12 +28,12 @@ CLMcom-GUF-CCLM5-0-9-NEMOMED12-3-6CLMcom-GUF     unrestricted        Institute f
 CLMcom-GUF-CCLM5-0-9-NEMOMED12-3-6-NEMONORDIC3-3CLMcom-GUF     unrestricted        Institute for Atmospheric and Environmental Sciences, Goethe University Frankfurt
 CLMcom-HZG-CCLM5-0-15    CLMcom-HZG     unrestricted        HZG, Geesthacht, Germany in collaboration with the CLM-Community
 CLMcom-JLU-CCLM5-0-15    CLMcom-JLU     unrestricted        JLU, Giessen, Germany in collaboration with the CLM-Community
-CLMcom-KIT-CCLM5-0-10    CLMcom-KIT     non-commercial      KIT, Karlsruhe, Germany in collaboration with the CLM-Community
-CLMcom-KIT-CCLM5-0-14    CLMcom-KIT     non-commercial      KIT, Karlsruhe, Germany in collaboration with the CLM-Community
-CLMcom-KIT-CCLM5-0-15    CLMcom-KIT     non-commercial      KIT, Karlsruhe, Germany in collaboration with the CLM-Community
-CLMcom-KIT-CCLM5-0-9     CLMcom-KIT     non-commercial      KIT, Karlsruhe, Germany in collaboration with the CLM-Community
+CLMcom-KIT-CCLM5-0-10    CLMcom-KIT     unrestricted        KIT, Karlsruhe, Germany in collaboration with the CLM-Community
+CLMcom-KIT-CCLM5-0-14    CLMcom-KIT     unrestricted        KIT, Karlsruhe, Germany in collaboration with the CLM-Community
+CLMcom-KIT-CCLM5-0-15    CLMcom-KIT     unrestricted        KIT, Karlsruhe, Germany in collaboration with the CLM-Community
+CLMcom-KIT-CCLM5-0-9     CLMcom-KIT     unrestricted        KIT, Karlsruhe, Germany in collaboration with the CLM-Community
 CLMcom-WEGC-CCLM5-0-9    CLMcom-WEGC    unrestricted        WEGC, Graz, Austria in collaboration with the CLM-Community
-CLMcom-ZAMG-CCLM5-0-14   CLMcom-ZAMG    non-commercial      ZAMG, Vienna, Austria,  in collaboration with the CLM-Community
+CLMcom-ZAMG-CCLM5-0-14   CLMcom-ZAMG    unrestricted        ZAMG, Vienna, Austria,  in collaboration with the CLM-Community
 CMCC-REMHI               CMCC           non-commercial      Centro Euromediterraneo sui Cambiamenti Climatici
 CNRM-ALADIN52            CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
 CNRM-ALADIN53            CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
@@ -46,6 +46,7 @@ CNRM-RCSM6               CNRM           unrestricted        Météo-France / Cen
 CRC-BGS-WRF381           CRC-BGS        non-commercial      Centre de Recherches de Climatologie, Biogéoscience, Université de Bourgogne Franche-Comté
 CRP-GL-WRF331A           CRP-GL         unrestricted        Public Research Centre - Gabriel Lippmann, Luxembourg
 CSIRO-CCAM               CSIRO          unrestricted        Commonwealth Scientific and Industrial Research Organisation
+CSIRO-CCAM-1704          CSIRO          unrestricted        Commonwealth Scientific and Industrial Research Organisation
 CUNI-RegCM4-2            CUNI           unrestricted        Charles University
 DHMZ-RegCM4-2            DHMZ           non-commercial      Meteorological and Hydrological Service of Croatia
 DMI-HIRHAM5              DMI            unrestricted        Danish Meteorological Institute
@@ -86,8 +87,8 @@ SMHI-RCA4                SMHI           unrestricted        Swedish Meteorologic
 SMHI-RCA4-SN             SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
 SMHI-RCAO                SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
 SMHI-RCAO-SN             SMHI           unrestricted        Swedish Meteorological and Hydrological Institute, Rossby Centre
-UCAN-WRF331G             UCAN           non-commercial      University of Cantabria
-UCAN-WRF341I             UCAN           non-commercial      University of Cantabria
+UCAN-WRF331G             UCAN           unrestricted        University of Cantabria
+UCAN-WRF341I             UCAN           unrestricted        University of Cantabria
 UCLM-PROMES              UCLM           unrestricted        University of Castilla-La Mancha, Toledo, Spain
 UHOH-WRF361H             UHOH           non-commercial      University of Hohenheim 
 ULg-MAR36                ULg            unrestricted        Dpt. Of Geography, University of Liège, Belgium
