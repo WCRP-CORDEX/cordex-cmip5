@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2020-11-03 12:37:14
+# Timestamp:  2021-01-21 18:12:29
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -47,6 +47,7 @@ CRC-BGS-WRF381           CRC-BGS        non-commercial      Centre de Recherches
 CRP-GL-WRF331A           CRP-GL         unrestricted        Public Research Centre - Gabriel Lippmann, Luxembourg
 CSIRO-CCAM               CSIRO          unrestricted        Commonwealth Scientific and Industrial Research Organisation
 CSIRO-CCAM-1704          CSIRO          unrestricted        Commonwealth Scientific and Industrial Research Organisation
+CSIRO-CCAM-2008          CSIRO          unrestricted        Commonwealth Scientific and Industrial Research Organisation
 CUNI-RegCM4-2            CUNI           unrestricted        Charles University
 DHMZ-RegCM4-2            DHMZ           non-commercial      Meteorological and Hydrological Service of Croatia
 DMI-HIRHAM5              DMI            unrestricted        Danish Meteorological Institute
@@ -57,10 +58,12 @@ GERICS-REMO2009          GERICS         unrestricted        Helmholtz-Zentrum Ge
 GERICS-REMO2015          GERICS         unrestricted        Climate Service Center Germany
 HMS-ALADIN52             HMS            non-commercial      Hungarian Meteorological Service
 ICTP-RegCM4-3            ICTP           unrestricted         Abdus Salam International Centre for Theoretical Physics
+ICTP-RegCM4-4            ICTP           unrestricted         Abdus Salam International Centre for Theoretical Physics
 ICTP-RegCM4-6            ICTP           unrestricted         Abdus Salam International Centre for Theoretical Physics
 ICTP-RegCM4-7            ICTP           unrestricted         Abdus Salam International Centre for Theoretical Physics
 IDL-WRF350D              IDL            non-commercial      Instituto Dom Luiz, University of Lisbon
 IITM-RegCM4-1            IITM           non-commercial      Indian Institute of Tropical Meteorology
+IITM-RegCM4-4            IITM           non-commercial      Centre for Climate Change Research. Indian Institute for Tropical Meteorology
 INPE-ETA                 INPE           unrestricted        National Institute for Space Research, Brazil
 IPSL-INERIS-WRF331F      IPSL-INERIS    unrestricted        Institut Pierre-Simon Laplace
 IPSL-INERIS-WRF361F      IPSL-INERIS    unrestricted        Institut Pierre-Simon Laplace
