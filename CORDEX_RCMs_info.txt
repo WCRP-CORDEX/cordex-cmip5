@@ -2,7 +2,7 @@
 # Do not change this file, its auto-generated based on the contents 
 # of the CORDEX RCM registration sheet managed at: 
 # https://github.com/IS-ENES-Data/cordex/raw/master/CORDEX_ESGF_register.xlsx 
-# Timestamp:  2021-01-21 18:12:29
+# Timestamp:  2021-04-16 12:08:43
 # ---------------------------------------------------------------------------------------------- 
 # model id                institute id   ToU                 institution name
 # ----------------------------------------------------------------------------------------------- 
@@ -20,6 +20,7 @@ CLMcom-CCLM4-8-17-CLM3-5 CLMcom         unrestricted        Climate Limited-area
 CLMcom-CCLM5-0-0         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
 CLMcom-CCLM5-0-2         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
 CLMcom-CCLM5-0-6         CLMcom         unrestricted        Climate Limited-area Modelling Community (CLM-Community)
+CLMcom-CMCC-CCLM4-21-2   CLMcom-CMCC    unrestricted        CMCC, REMHI division, Italy in collaboration with the CLM-Community
 CLMcom-CMCC-CCLM5-0-9    CLMcom-CMCC    unrestricted        CMCC, REMHI division, Italy in collaboration with the CLM-Community
 CLMcom-DWD-CCLM5-0-15    CLMcom-DWD     unrestricted        DWD, Offenbach, Germany in collaboration with the CLM-Community
 CLMcom-ETH-COSMO-crCLIM-v1-1CLMcom-ETH     unrestricted        ETH Zurich, Zurich, Switzerland in collaboration with the CLM-Community
@@ -39,7 +40,7 @@ CNRM-ALADIN52            CNRM           unrestricted        Météo-France / Cen
 CNRM-ALADIN53            CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
 CNRM-ALADIN63            CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
 CNRM-ALADIN64            CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
-CNRM-AROME-41t1          CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
+CNRM-AROME41t1           CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
 CNRM-ARPEGE52            CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
 CNRM-RCSM4               CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques
 CNRM-RCSM6               CNRM           unrestricted        Météo-France / Centre National de Recherches Météorologiques

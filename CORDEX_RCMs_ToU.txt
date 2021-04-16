@@ -2,7 +2,7 @@
 # Do not change this file - it is auto-generated based on the contents 
 # of the CORDEX RCM registration sheet  
 # To register CORDEX simulations please contact cordex-registration /at/ cordex.org 
-# Timestamp:  2021-01-21 18:12:29
+# Timestamp:  2021-04-16 12:08:43
 # -------------------------------------------------------------- 
 # model id           institute id             ToU  
 # --------------------------------------------------------------- 
@@ -20,6 +20,7 @@ CLMcom-CCLM4-8-17-CLM3-5 CLMcom         unrestricted
 CLMcom-CCLM5-0-0         CLMcom         unrestricted   
 CLMcom-CCLM5-0-2         CLMcom         unrestricted   
 CLMcom-CCLM5-0-6         CLMcom         unrestricted   
+CLMcom-CMCC-CCLM4-21-2   CLMcom-CMCC    unrestricted   
 CLMcom-CMCC-CCLM5-0-9    CLMcom-CMCC    unrestricted   
 CLMcom-DWD-CCLM5-0-15    CLMcom-DWD     unrestricted   
 CLMcom-ETH-COSMO-crCLIM-v1-1CLMcom-ETH     unrestricted   
@@ -39,7 +40,7 @@ CNRM-ALADIN52            CNRM           unrestricted
 CNRM-ALADIN53            CNRM           unrestricted   
 CNRM-ALADIN63            CNRM           unrestricted   
 CNRM-ALADIN64            CNRM           unrestricted   
-CNRM-AROME-41t1          CNRM           unrestricted   
+CNRM-AROME41t1           CNRM           unrestricted   
 CNRM-ARPEGE52            CNRM           unrestricted   
 CNRM-RCSM4               CNRM           unrestricted   
 CNRM-RCSM6               CNRM           unrestricted   
