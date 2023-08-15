@@ -1,5 +1,5 @@
 {"stac_version":"1.0.0",
-  stac_extensions":[],
+  "stac_extensions":[],
   "id":"S2GLC","title":"S2GLC",
   "description":"The S2GLC 2017 product ",
   "type":"Collection",
