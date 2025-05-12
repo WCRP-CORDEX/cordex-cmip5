@@ -22,6 +22,6 @@ A simple script is available in the [esgf-data-loss/](./esgf-data-loss/) directo
 bash locate_available_data.sh /path/to/your/CORDEX/data/following/ESGF/directory/structure
 ```
 
-If you discover that you hold any of the affected datasets, please open an issue in this repository or contact: datasupport@cordex.org.
+If you discover that you hold any of the affected datasets, please open an issue in [this repository](https://github.com/WCRP-CORDEX/cordex-cmip5/issues) or contact: datasupport@cordex.org.
 
 Some of the most commonly used variables from the CORDEX-CMIP5 archive remain accessible via the [Copernicus Climate Data Store](https://cds.climate.copernicus.eu/datasets/projections-cordex-domains-single-levels?tab=overview) ([Diez-Sierra et al. 2024](https://doi.org/10.1175/BAMS-D-22-0111.1)).
