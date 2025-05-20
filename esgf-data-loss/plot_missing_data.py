@@ -3,9 +3,15 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import requests
 
-url = "https://raw.githubusercontent.com/WCRP-CORDEX/cordex-cmip5/refs/heads/main/esgf-data-loss/Missing_CORDEX_Data.txt"
-response = requests.get(url)
-data = response.text.splitlines()
+read_remote = False
+
+if read_remote:
+    url = "https://raw.githubusercontent.com/WCRP-CORDEX/cordex-cmip5/refs/heads/main/esgf-data-loss/Missing_CORDEX_Data.txt"
+    response = requests.get(url)
+    data = response.text.splitlines()
+else:
+    with open('esgf-data-loss/Missing_CORDEX_Data.txt') as fp:
+        data = fp.readlines()
 
 df = pd.DataFrame([line.split('.') for line in data if line.strip()], 
                  columns=['project', 'product', 'domain', 'institute', 'driving_model',
