@@ -11,6 +11,10 @@ fi
 curl -fsSL "$missing_data_url" | while read dataset
 do
   localpath=${basepath}/${dataset//./\/}
+  # jf: dirty trick for directory tree with INST-MODEL vs just MODEL
+  # Uncomment one at a time
+  #localpath=$(ls -d ${localpath//p1\//p1\/\*-} 2> /dev/null || continue)
+  #localpath=$(ls -d ${localpath//p0\//p0\/\*-} 2> /dev/null || continue)
   if test -d "${localpath}"
   then
     echo "${dataset} -> found at ${localpath}"
