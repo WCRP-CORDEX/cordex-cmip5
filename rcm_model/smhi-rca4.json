@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "smhi-rca4",
+    "type": "source",
+    "rcm_name": "RCA4"
+}

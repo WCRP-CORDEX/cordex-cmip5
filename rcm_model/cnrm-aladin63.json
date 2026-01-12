@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cnrm-aladin63",
+    "type": "source",
+    "rcm_name": "ALADIN63"
+}
