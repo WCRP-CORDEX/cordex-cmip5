@@ -1,8 +1,5 @@
 {
-    "@context": {
-        "id": "@id",
-        "type": "@type",
-        "@base": "https://esgvoc.ipsl.fr/resource/universe/product/",
-        "mip_era": "https://esgvoc.ipsl.fr/resource/universe/product/"
-    }
+    "@context": "000_context.jsonld",
+    "id": "model-output",
+    "type": "product"
 }
