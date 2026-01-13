@@ -2,5 +2,5 @@
     "@context": "000_context.jsonld",
     "id": "freetext",
     "type": "regex",
-    "regex": "^v\\d+-r\\d+$"
+    "regex": "^v\\d+(?:[a-z]|(?:-\\d+)*(?:-[a-z]+\\d+)?)?$"
 }
