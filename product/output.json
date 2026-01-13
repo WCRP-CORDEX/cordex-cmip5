@@ -1,5 +1,5 @@
 {
     "@context": "000_context.jsonld",
-    "id": "model-output",
+    "id": "output",
     "type": "product"
 }
