@@ -202,6 +202,10 @@
           "source_collection": "time_frequency",
           "value_type": "string"
       },
+      "time_range": {
+          "source_collection": "time_range",
+          "value_type": "string"
+      },
       "variable": {
           "source_collection": "variable",
           "value_type": "string"
