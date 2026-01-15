@@ -1,6 +1,6 @@
 {
     "@context": "000_context.jsonld",
-    "id": "unsw-wrf360k",
+    "id": "cclm4-8-17",
     "type": "source",
-    "rcm_name": "UNSW-WRF360K"
+    "rcm_name": "CCLM4-8-17"
 }
