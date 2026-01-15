@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pik-stars3",
+    "type": "source",
+    "rcm_name": "PIK-STARS3"
+}

@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "csiro-ccam-1704",
+    "type": "source",
+    "rcm_name": "CCAM-1704"
+}
