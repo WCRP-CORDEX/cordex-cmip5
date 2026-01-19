@@ -1,6 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "racmo22e",
-    "type": "source",
-    "rcm_name": "RACMO22E"
-}
