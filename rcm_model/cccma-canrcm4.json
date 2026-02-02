@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cccma-canrcm4",
+    "type": "source",
+    "rcm_name": "CCCMA-CanRCM4"
+}

@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hms-aladin52",
+    "type": "source",
+    "rcm_name": "ALADIN52"
+}

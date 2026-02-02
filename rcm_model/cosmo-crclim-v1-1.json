@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cosmo-crclim-v1-1",
+    "type": "source",
+    "rcm_name": "COSMO-crCLIM-v1-1"
+}

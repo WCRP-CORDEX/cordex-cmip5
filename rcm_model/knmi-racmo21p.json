@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "knmi-racmo21p",
+    "type": "source",
+    "rcm_name": "RACMO21P"
+}

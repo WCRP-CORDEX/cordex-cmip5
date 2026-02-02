@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ru-core-regcm4-3",
+    "type": "source",
+    "rcm_name": "RegCM4-3"
+}

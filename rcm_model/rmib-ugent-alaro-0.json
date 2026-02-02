@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rmib-ugent-alaro-0",
+    "type": "source",
+    "rcm_name": "ALARO-0"
+}

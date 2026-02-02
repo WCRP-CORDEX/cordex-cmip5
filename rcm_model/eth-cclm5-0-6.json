@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "eth-cclm5-0-6",
+    "type": "source",
+    "rcm_name": "ETH-CCLM5-0-6"
+}
