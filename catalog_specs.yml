@@ -1,0 +1,62 @@
+version: v3.1.1
+
+catalog_properties:
+  name: stac
+  url_template: "https://stac-extensions.github.io/{extension_name}/{extension_version}/schema.json"
+  extensions:
+    - name: file
+      version: v2.1.0
+    - name: alternate-assets
+      version: v1.2.0
+  regex_id: '^CORDEX-CMIP5(\.[A-Za-z0-9-]+){10}\.v[0-9]{8}$'
+  regex_base_id: '^CORDEX-CMIP5(\.[A-Za-z0-9-]+){10}$'
+
+dataset_properties:
+  - source_collection: activity
+    catalog_field_value_type: string
+    catalog_field_value_name: activity_id
+    is_required: true
+
+  - source_collection: domain
+    source_collection_key: description
+    catalog_field_value_type: string
+    is_required: true
+
+  - source_collection: driving_model
+    catalog_field_value_type: string
+    is_required: false
+
+  - source_collection: institute
+    source_collection_key: description
+    catalog_field_name: institution
+    catalog_field_value_type: string
+    is_required: false
+
+  - source_collection: institute
+    catalog_field_name: institution_id
+    catalog_field_value_type: string
+    is_required: true
+
+  - source_collection: product
+    catalog_field_value_type: string
+    is_required: true
+
+  - source_collection: rcm_model
+    catalog_field_value_type: string
+    is_required: true
+
+  - source_collection: variable
+    source_collection_key: standard_name
+    catalog_field_name: variable_cf_standard_name
+    catalog_field_value_type: string
+    is_required: true
+
+  - source_collection: variable
+    catalog_field_name: variable_id
+    catalog_field_value_type: string
+    is_required: true
+
+file_properties:
+  - source_collection: version
+    catalog_field_value_type: string
+    is_required: true
