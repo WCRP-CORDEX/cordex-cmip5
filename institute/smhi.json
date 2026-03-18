@@ -1,5 +1,5 @@
 {
     "@context": "000_context.jsonld",
     "id": "smhi",
-    "type": "institution"
+    "type": "organisation"
 }
