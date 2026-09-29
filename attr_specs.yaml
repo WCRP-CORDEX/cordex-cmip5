@@ -1,49 +1,50 @@
-# Global attributes specification for CORDEX-CMIP6 netCDF files
+# NETCDF GLOBAL ATTRIBUTES SPECIFICATIONS
 
 - source_collection: activity
+  attr_field_value_type: string
   is_required: true
-  value_type: string
 
 - source_collection: domain
+  attr_field_value_type: string
   is_required: true
-  value_type: string
 
 - source_collection: driving_model
+  attr_field_value_type: string
   is_required: true
-  value_type: string
 
 - source_collection: ensemble
+  attr_field_value_type: string
   is_required: true
-  value_type: string
 
 - source_collection: experiment
+  attr_field_value_type: string
   is_required: true
-  value_type: string
 
 - source_collection: institute
+  attr_field_value_type: string
   is_required: true
-  value_type: string
 
 - source_collection: product
+  attr_field_value_type: string
   is_required: true
-  value_type: string
 
 - source_collection: rcm_model
+  attr_field_value_type: string
   is_required: true
-  value_type: string
 
 - source_collection: rcm_version
+  attr_field_value_type: string
   is_required: true
-  value_type: string
 
 - source_collection: time_frequency
+  attr_field_value_type: string
   is_required: true
-  value_type: string
 
 - source_collection: variable
+  attr_field_value_type: string
   is_required: true
-  value_type: string
 
 - source_collection: version
+  attr_field_value_type: string
   is_required: true
-  value_type: string
+
