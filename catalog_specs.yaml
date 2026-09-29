@@ -1,4 +1,6 @@
-version: v3.1.1
+# STAC CATALOG SPECIFICATIONS
+
+version: v3.2.0
 
 catalog_properties:
   name: stac
@@ -9,7 +11,7 @@ catalog_properties:
     - name: alternate-assets
       version: v1.2.0
   regex_id: '^CORDEX-CMIP5(\.[A-Za-z0-9-]+){10}\.v[0-9]{8}$'
-  regex_base_id: '^CORDEX-CMIP5(\.[A-Za-z0-9-]+){10}$'
+  regex_title: '^CORDEX-CMIP5(\.[A-Za-z0-9-]+){10}$'
 
 dataset_properties:
   - source_collection: activity
